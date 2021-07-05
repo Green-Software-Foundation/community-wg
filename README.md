@@ -1,7 +1,7 @@
 # community_wg
 
-Chair - Elise Zelechowski (ThoughtWorks)
-VChair - Rae Lyon (MSFT)
+- Chair - Elise Zelechowski (ThoughtWorks)
+- VChair - Rae Lyon (MSFT)
 
 [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024T09EJSF) (Private) - Only for informal communication
 
