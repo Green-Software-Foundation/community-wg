@@ -1,7 +1,8 @@
 # GSF Community WG
 
 ## Scope
->To be added
+- Facilitate broad adoption of green software standards and best practices through the creation of partnerships, content, events and programs.
+- Ensure diverse participation of stakeholders in the development and implementation of green software.
 
 ## Appointments 
 - Chair - Elise Zelechowski (ThoughtWorks)
