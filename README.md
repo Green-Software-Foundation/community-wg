@@ -33,5 +33,17 @@ Community WG projects are copyrighted under [Creative Commons Attribution 4.0](h
 ## Patent
 No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
 
+## Collaborating With the WG
+
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/standards_wg/issues/new)
+2. Discuss Issue with WG --> Create PR if required
+3. PR to be submitted against the **DEV feature branch**
+4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
+ 
+<figure>
+	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
+	<figcaption></figcaption>
+</figure>
+
 ## Help
 helpdesk@greensoftware.io
