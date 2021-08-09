@@ -35,7 +35,7 @@ No Patent License. No patent licenses are granted for the Draft Deliverables or 
 
 ## Collaborating With the WG
 
-1. Create a [new Issue](https://github.com/Green-Software-Foundation/standards_wg/issues/new)
+1. Create a [new Issue](https://github.com/Green-Software-Foundation/community_wg/issues/new)
 2. Discuss Issue with WG --> Create PR if required
 3. PR to be submitted against the **DEV feature branch**
 4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
