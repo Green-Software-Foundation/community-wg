@@ -1,49 +1,52 @@
-# GSF Community WG
+Follow the instructions in [CONFIGURE.md](CONFIGURE.md) to learn how to configure this template repository.
 
-## Scope
-- Facilitate broad adoption of green software standards and best practices through the creation of partnerships, content, events and programs.
-- Ensure diverse participation of stakeholders in the development and implementation of green software.
+# PROJECT-TITLE
 
-## Appointments 
-- Chair - Elise Zelechowski (ThoughtWorks)
-- VChair - Rae Lyon (MSFT)
+TODO
 
-## Projects
-- [GSF Manifesto](https://github.com/Green-Software-Foundation/cwg_gsf_manifesto/tree/dev)
-
-## Resources
-
-* [Meeting Schedule](https://lists.greensoftware.io/g/community/calendar) (Members Only)
-* [Shared Google Drive](https://drive.google.com/drive/u/3/folders/1lPxOl0P0dn90XWXba6ML0P0a-DzHWXdp) (Members Only)
-* [Slack Channel](https://greensoftware-zzk1035.slack.com/archives/C024T09EJSF) (Members Only)
-
-## Getting Started
-Welcome to the Community Working Group.
-
-This working group is part of the Green Software Foundation. It is open to any member of the Foundation, for more details regarding the foundation and the application form to join please go to https://greensoftware.foundation.
-
-- Make sure you have joined the GSF slack and have introduced yourself in the Community slack channel.
-- We have weekly meetings over zoom, ensure you have access to the above meeting schedule.
-- Familiarize yourself with our scope above and take a look at our current projects in flight, links are above.
-- If you are having any problems with access please reach out to smcilroy@contractor.linuxfoundation.org  or helpdesk@greensoftware.io.
+This is a project run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation) and can be viewed through https://TODO.greensoftware.foundation
 
 ## Copyright
-Community WG projects are copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
+This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Patent
-No Patent License. No patent licenses are granted for the Draft Deliverables or Approved Deliverables developed by this Working Group.
+No Patent License.
 
-## Collaborating With the WG
+## License
+This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
 
-1. Create a [new Issue](https://github.com/Green-Software-Foundation/community_wg/issues/new)
-2. Discuss Issue with WG --> Create PR if required
-3. PR to be submitted against the **DEV feature branch**
-4. PR discussed with the WG. If agreed, the WG Chair will merge into **DEV Feature branch**
- 
-<figure>
-	<img src="images/single-trunk-branch.svg" alt="GSF Single-Trunk Based Branch Flow">
-	<figcaption></figcaption>
-</figure>
+## Contributing
 
-## Help
-helpdesk@greensoftware.io
+This project is open source and welcomes public contribution via issues, discussions and pull requests.
+
+Members of the Green Software Foundation also meet and discuss aspects of this project either in-person or virtual via email or video.
+
+Instructions for how to contribute to this project can be found in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Editing Content
+
+This project is a static website based on the project https://docusaurus.io, you can find more information about docusaurus here: https://docusaurus.io/docs
+
+The `docs` folder contains all of the material in this project, editing any file there in the `main` branch will update the website. If you are only interested in editing content on the website then you should not need to leave the `docs` folder.
+
+The documentation files use a format called markdown and they end in `.md` which supports certain basic styling features like so: https://docusaurus.io/docs/markdown-features
+
+## Developing Locally
+
+To edit this project on your local machine and see the output as it would be rendered on the website you will need `node` at least version 14 installed.
+
+We also recommend to use `yarn` as the package management solution as the deployment scripts use `yarn` not `npm`.
+
+`npm -g install yarn`
+
+`yarn install`
+
+Then to run the project locally type
+
+`yarn run docusaurus start`
+
+and visit https://localhost:3000 in your favorite browser or whatever the command above prints out in the terminal.
+
+## Site Configuration
+
+To edit attributes of the website, customize the menu, sidebar and footer for example, you will need to edit the `docusaurus.config.js` file, more information about the options that are present there can be found here: https://docusaurus.io/docs/api/docusaurus-config

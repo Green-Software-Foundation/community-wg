@@ -1,0 +1,47 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Community Working Group",
+        "href": "/",
+        "docId": "index"
+      },
+      {
+        "type": "category",
+        "label": "folder",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "This is a file",
+            "href": "/folder/file",
+            "docId": "folder/file"
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "folder/file": {
+      "id": "folder/file",
+      "title": "This is a file",
+      "description": "",
+      "sidebar": "tutorialSidebar"
+    },
+    "index": {
+      "id": "index",
+      "title": "Community Working Group",
+      "description": "Summary",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}
