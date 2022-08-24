@@ -1,18 +1,21 @@
 Follow the instructions in [CONFIGURE.md](CONFIGURE.md) to learn how to configure this template repository.
 
-# PROJECT-TITLE
+# Community Working Group
 
 TODO
 
 This is a project run through the [Community Working Group](https://grnsft.org/community-wg) in the [Green Software Foundation](https://greensoftware.foundation) and can be viewed through https://TODO.greensoftware.foundation
 
 ## Copyright
+
 This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Patent
+
 No Patent License.
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
 
 ## Contributing
