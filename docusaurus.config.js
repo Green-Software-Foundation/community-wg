@@ -11,7 +11,7 @@ const config = {
   tagline:
     "Facilitate broad adoption of Green Software standards and best practices through the creation of partnerships, content, events and programs",
   // Change to site url
-  url: "https://community-wg.greensoftware.foundation/",
+  url: "https://community.greensoftware.foundation/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -84,7 +84,7 @@ const config = {
               },
               {
                 label: "Website",
-                href: "https://community-wg.greensoftware.foundation",
+                href: "https://community.greensoftware.foundation",
               },
             ],
           },
