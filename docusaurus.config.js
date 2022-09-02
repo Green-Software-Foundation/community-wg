@@ -34,7 +34,8 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
           // Change this to your repo.
-          editUrl: "https://github.com/Green-Software-Foundation/community_wg/",
+          editUrl:
+            "https://github.com/Green-Software-Foundation/community_wg/tree/web",
         },
         blog: false,
         theme: {
