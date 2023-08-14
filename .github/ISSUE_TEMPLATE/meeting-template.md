@@ -3,7 +3,7 @@ name: Meeting Template
 about: To track principles project meeting agenda, minutes and attendance
 title: YYYY MM DD - Green Software Community Working Group Agenda
 labels: Agenda / Minutes
-assignees: adamj89, aecurrie, tamigraph
+assignees: aecurrie, adamj89, tmcclell
 
 ---
 
