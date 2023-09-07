@@ -8,7 +8,7 @@ assignees: aecurrie, adamj89, tmcclell
 ---
 
 ## Date
-YYYY-MM-DD - 3pm UTC - See the time in your timezone https://everytimezone.com/s/a8399b00
+YYYY-MM-DD - 3pm UTC - See the time in your timezone https://everytimezone.com/s/cc45bdd5
 
 ## Meeting notices
 
@@ -30,6 +30,7 @@ Any untracked attendees will be added by the GSF team below:
 - [ ] Convene & Roll Call (5mins)
 - [ ] Review Meeting Notices (see above)
 - [ ] Approve Past Meeting Minutes
+- [ ] OKR & KPI update
 - [ ] Review Pull Requests
 - [ ] Review Pull Request XXXX
 - [ ] Discuss Issues
@@ -39,7 +40,14 @@ Any untracked attendees will be added by the GSF team below:
 - [ ] ...
 - [ ] AOB, Q&A & Adjourn (5mins)
 
+## Upcoming moments in time
+- [ ] ...
+
+## Any Other Business
+- [ ] ...
+
+## Decisions
+- [ ] ...
+
 ## Action Items
-- [ ] Action 1
-- [ ] Action 2
 - [ ] ...
