@@ -29,16 +29,34 @@ Any untracked attendees will be added by the GSF team below:
 ## Agenda
 - [ ] Convene & Roll Call (5mins)
 - [ ] Review Meeting Notices (see above)
-- [ ] Approve Past Meeting Minutes
+- [ ] Review Past Meeting Actions & Approve Minutes
 - [ ] OKR & KPI update
-- [ ] Review Pull Requests
-- [ ] Review Pull Request XXXX
-- [ ] Discuss Issues
-- [ ] Discuss Issue XXXXX
-- [ ] Agenda item 1
-- [ ] Agenda item 2
+- [ ] Member Check-in Report
 - [ ] ...
 - [ ] AOB, Q&A & Adjourn (5mins)
+
+## Past Meeting
+
+* [link]
+* Incomplete Actions
+
+## OKRs & KPIs
+
+* Patterns
+* Principles
+* Decarb
+* Champions
+* Meetup
+
+## Projects
+* [Green Maturity Matrix](https://github.com/Green-Software-Foundation/oc/issues/46) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
+* [Champions/Speakers](https://github.com/Green-Software-Foundation/speakers) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
+* [Meetup](https://github.com/Green-Software-Foundation/meetup) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
+* [Green Software Patterns](https://github.com/Green-Software-Foundation/patterns) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
+* [Green Software Practitioner course](https://github.com/Green-Software-Foundation/learn) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
+* [Decarbonize Software event](https://github.com/Green-Software-Foundation/decarbonize-software-event)
+* [Carbon Hack 24](https://github.com/Green-Software-Foundation/carbonhack-event)
+
 
 ## Upcoming moments in time
 - [ ] ...
