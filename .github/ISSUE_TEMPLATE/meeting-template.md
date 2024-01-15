@@ -1,14 +1,14 @@
 ---
 name: Meeting Template
 about: To track principles project meeting agenda, minutes and attendance
-title: YYYY MM DD - Green Software Community Working Group Agenda
+title: YYYY-MM-DD - Green Software Community Working Group Agenda
 labels: Agenda / Minutes
-assignees: aecurrie, adamj89, tmcclell
+assignees: 
 
 ---
 
 ## Date
-YYYY-MM-DD - 3pm UTC - See the time in your timezone https://everytimezone.com/s/cc45bdd5
+YYYY-MM-DD - 16:00 UTC - See the time in your timezone https://everytimezone.com/s/cc45bdd5
 
 ## Meeting notices
 
@@ -32,6 +32,7 @@ Any untracked attendees will be added by the GSF team below:
 - [ ] Review Past Meeting Actions & Approve Minutes
 - [ ] OKR & KPI update
 - [ ] Member Check-in Report
+- [ ] Projects
 - [ ] ...
 - [ ] AOB, Q&A & Adjourn (5mins)
 
@@ -42,21 +43,27 @@ Any untracked attendees will be added by the GSF team below:
 
 ## OKRs & KPIs
 
+* Maturity Matrix
 * Patterns
 * Principles
-* Decarb
 * Champions
 * Meetup
 
-## Projects
-* [Green Maturity Matrix](https://github.com/Green-Software-Foundation/oc/issues/46) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
-* [Champions/Speakers](https://github.com/Green-Software-Foundation/speakers) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
-* [Meetup](https://github.com/Green-Software-Foundation/meetup) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
-* [Green Software Patterns](https://github.com/Green-Software-Foundation/patterns) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
-* [Green Software Practitioner course](https://github.com/Green-Software-Foundation/learn) ![incubation](https://img.shields.io/badge/Incubation-A2CF62)
-* [Decarbonize Software event](https://github.com/Green-Software-Foundation/decarbonize-software-event)
-* [Carbon Hack 24](https://github.com/Green-Software-Foundation/carbonhack-event)
+## [Projects](https://airtable.com/appVPOiFrCIjAAcvB/shr7sf6OVz6I9gL3L)
 
+### [Green Maturity Matrix](https://github.com/Green-Software-Foundation/oc/issues/46)
+
+### [Green Software Patterns](https://github.com/Green-Software-Foundation/patterns)
+
+### [Green Software Practitioner course](https://github.com/Green-Software-Foundation/learn)
+
+### [Carbon Hack 24](https://github.com/Green-Software-Foundation/carbonhack-event) ![Exec](https://img.shields.io/badge/exec-1A3C5B)
+
+### [Champions](https://github.com/Green-Software-Foundation/speakers) ![Exec](https://img.shields.io/badge/exec-1A3C5B)
+
+### [Meetup](https://github.com/Green-Software-Foundation/meetup) ![Exec](https://img.shields.io/badge/exec-1A3C5B)
+
+### Other
 
 ## Upcoming moments in time
 - [ ] ...
